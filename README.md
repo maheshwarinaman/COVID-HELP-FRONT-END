@@ -3,7 +3,7 @@ This is a single page front-end website that gives neceesary information about C
 
 Website Link: https://maheshwarinaman.github.io/COVID-HELP-FRONT-END/
 
-Technology used are HTML,CSS,JAVASCRIPT AND JQUEY
+Technology used are HTML,CSS,JAVASCRIPT AND JQUERY
 
 Images and Logos  have taken from www.freepik.com
 
