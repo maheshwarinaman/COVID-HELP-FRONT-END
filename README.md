@@ -5,7 +5,6 @@ SCOPE OF THE PROJECT
 The COVID-19 pandemic has led to a dramatic loss of human life worldwide and presents an unprecedented challenge to public health, food systems and the world of work. The economic and social disruption caused by the pandemic is devastating: tens of millions of people are at risk of falling into extreme poverty, while the number of undernourished people, currently estimated at nearly 690 million, could increase by up to 132 million by the end of the year.
 
 So I tried to make a Front-end website that tells about the about the prevention, precaution and symptoms of the COVID-19 and tells about the right way of doing Handwash and give some of the doctor’s recommendations too.
-![image](https://user-images.githubusercontent.com/49190119/130183314-42ff7d5a-72dc-40aa-8404-acdd945ffbcd.png)
 
 
 Website Link: https://maheshwarinaman.github.io/COVID-HELP-FRONT-END/
